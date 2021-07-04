@@ -8,7 +8,7 @@ namespace Carga_no_banco_de_dados_correiros
     {
         static void Main(string[] args)
         {
-            string[] lines = File.ReadAllLines("LOG_LOCALIDADE.TXT", Encoding.UTF7);
+            string[] lines = File.ReadAllLines(@"C:\Users\Marina\source\repos\Arquivos Correios\eDNE_Basico\Delimitado\LOG_LOCALIDADE.TXT", Encoding.UTF7);
 
             foreach (var line in lines)
             {
