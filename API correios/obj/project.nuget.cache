@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "rv1013r3e1Kz3S5HenIfkITfBrJzaB9rN2O2REiGcKApcQewZW354ySjPOqAvkQSg/cvVJJxygXNS2PrI2tilA==",
+  "dgSpecHash": "kJCxejnk82kz/O0HQrihSY+cSpHc1IhrhYXGM87tYldPqgdG9oVcyPef1PDIBcwV4QbD7keu7b5hcHofsa2Btw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Marina\\source\\repos\\API correios\\API correios\\API correios.csproj",
+  "projectFilePath": "C:\\Users\\Marina\\source\\repos\\Arquivos Correios\\API correios\\API correios\\API correios.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Marina\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Marina\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",

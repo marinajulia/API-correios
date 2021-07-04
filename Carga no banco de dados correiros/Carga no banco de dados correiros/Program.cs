@@ -1,4 +1,6 @@
 ﻿using System;
+using System.IO;
+using System.Text;
 
 namespace Carga_no_banco_de_dados_correiros
 {
@@ -6,7 +8,15 @@ namespace Carga_no_banco_de_dados_correiros
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            string[] lines = File.ReadAllLines("LOG_LOCALIDADE.TXT", Encoding.UTF7);
+
+            foreach (var line in lines)
+            {
+                var props = line.Split("@");
+                //Console.WriteLine(props[0]);
+                Console.WriteLine(line);
+            }
+            Console.ReadKey();
         }
     }
 }

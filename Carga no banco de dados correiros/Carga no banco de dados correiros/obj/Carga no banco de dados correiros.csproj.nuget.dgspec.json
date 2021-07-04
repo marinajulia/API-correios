@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Marina\\source\\repos\\Carga no banco de dados correiros\\Carga no banco de dados correiros\\Carga no banco de dados correiros.csproj": {}
+    "C:\\Users\\Marina\\source\\repos\\Arquivos Correios\\API correios\\Carga no banco de dados correiros\\Carga no banco de dados correiros\\Carga no banco de dados correiros.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Marina\\source\\repos\\Carga no banco de dados correiros\\Carga no banco de dados correiros\\Carga no banco de dados correiros.csproj": {
+    "C:\\Users\\Marina\\source\\repos\\Arquivos Correios\\API correios\\Carga no banco de dados correiros\\Carga no banco de dados correiros\\Carga no banco de dados correiros.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Marina\\source\\repos\\Carga no banco de dados correiros\\Carga no banco de dados correiros\\Carga no banco de dados correiros.csproj",
+        "projectUniqueName": "C:\\Users\\Marina\\source\\repos\\Arquivos Correios\\API correios\\Carga no banco de dados correiros\\Carga no banco de dados correiros\\Carga no banco de dados correiros.csproj",
         "projectName": "Carga no banco de dados correiros",
-        "projectPath": "C:\\Users\\Marina\\source\\repos\\Carga no banco de dados correiros\\Carga no banco de dados correiros\\Carga no banco de dados correiros.csproj",
+        "projectPath": "C:\\Users\\Marina\\source\\repos\\Arquivos Correios\\API correios\\Carga no banco de dados correiros\\Carga no banco de dados correiros\\Carga no banco de dados correiros.csproj",
         "packagesPath": "C:\\Users\\Marina\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Marina\\source\\repos\\Carga no banco de dados correiros\\Carga no banco de dados correiros\\obj\\",
+        "outputPath": "C:\\Users\\Marina\\source\\repos\\Arquivos Correios\\API correios\\Carga no banco de dados correiros\\Carga no banco de dados correiros\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

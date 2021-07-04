@@ -1,0 +1,13 @@
+C:\Users\Marina\source\repos\Arquivos Correios\API correios\Carga no banco de dados correiros\Carga no banco de dados correiros\bin\Debug\netcoreapp3.1\Carga no banco de dados correiros.exe
+C:\Users\Marina\source\repos\Arquivos Correios\API correios\Carga no banco de dados correiros\Carga no banco de dados correiros\bin\Debug\netcoreapp3.1\Carga no banco de dados correiros.deps.json
+C:\Users\Marina\source\repos\Arquivos Correios\API correios\Carga no banco de dados correiros\Carga no banco de dados correiros\bin\Debug\netcoreapp3.1\Carga no banco de dados correiros.runtimeconfig.json
+C:\Users\Marina\source\repos\Arquivos Correios\API correios\Carga no banco de dados correiros\Carga no banco de dados correiros\bin\Debug\netcoreapp3.1\Carga no banco de dados correiros.runtimeconfig.dev.json
+C:\Users\Marina\source\repos\Arquivos Correios\API correios\Carga no banco de dados correiros\Carga no banco de dados correiros\bin\Debug\netcoreapp3.1\Carga no banco de dados correiros.dll
+C:\Users\Marina\source\repos\Arquivos Correios\API correios\Carga no banco de dados correiros\Carga no banco de dados correiros\bin\Debug\netcoreapp3.1\Carga no banco de dados correiros.pdb
+C:\Users\Marina\source\repos\Arquivos Correios\API correios\Carga no banco de dados correiros\Carga no banco de dados correiros\obj\Debug\netcoreapp3.1\Carga no banco de dados correiros.csproj.AssemblyReference.cache
+C:\Users\Marina\source\repos\Arquivos Correios\API correios\Carga no banco de dados correiros\Carga no banco de dados correiros\obj\Debug\netcoreapp3.1\Carga no banco de dados correiros.AssemblyInfoInputs.cache
+C:\Users\Marina\source\repos\Arquivos Correios\API correios\Carga no banco de dados correiros\Carga no banco de dados correiros\obj\Debug\netcoreapp3.1\Carga no banco de dados correiros.AssemblyInfo.cs
+C:\Users\Marina\source\repos\Arquivos Correios\API correios\Carga no banco de dados correiros\Carga no banco de dados correiros\obj\Debug\netcoreapp3.1\Carga no banco de dados correiros.csproj.CoreCompileInputs.cache
+C:\Users\Marina\source\repos\Arquivos Correios\API correios\Carga no banco de dados correiros\Carga no banco de dados correiros\obj\Debug\netcoreapp3.1\Carga no banco de dados correiros.dll
+C:\Users\Marina\source\repos\Arquivos Correios\API correios\Carga no banco de dados correiros\Carga no banco de dados correiros\obj\Debug\netcoreapp3.1\Carga no banco de dados correiros.pdb
+C:\Users\Marina\source\repos\Arquivos Correios\API correios\Carga no banco de dados correiros\Carga no banco de dados correiros\obj\Debug\netcoreapp3.1\Carga no banco de dados correiros.genruntimeconfig.cache

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Carga no banco de dados correiros/1.0.0": {
+        "runtime": {
+          "Carga no banco de dados correiros.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Carga no banco de dados correiros/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Marina\\source\\repos\\API correios\\API correios\\API correios.csproj": {}
+    "C:\\Users\\Marina\\source\\repos\\Arquivos Correios\\API correios\\API correios\\API correios.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Marina\\source\\repos\\API correios\\API correios\\API correios.csproj": {
+    "C:\\Users\\Marina\\source\\repos\\Arquivos Correios\\API correios\\API correios\\API correios.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Marina\\source\\repos\\API correios\\API correios\\API correios.csproj",
+        "projectUniqueName": "C:\\Users\\Marina\\source\\repos\\Arquivos Correios\\API correios\\API correios\\API correios.csproj",
         "projectName": "API correios",
-        "projectPath": "C:\\Users\\Marina\\source\\repos\\API correios\\API correios\\API correios.csproj",
+        "projectPath": "C:\\Users\\Marina\\source\\repos\\Arquivos Correios\\API correios\\API correios\\API correios.csproj",
         "packagesPath": "C:\\Users\\Marina\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Marina\\source\\repos\\API correios\\API correios\\obj\\",
+        "outputPath": "C:\\Users\\Marina\\source\\repos\\Arquivos Correios\\API correios\\API correios\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
