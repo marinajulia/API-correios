@@ -11,14 +11,14 @@ namespace Carga_no_banco_de_dados_correiros.Migrations
                 columns: table => new
                 {
                     LOC_NU = table.Column<int>(type: "int", nullable: false),
-                    UFE_SG = table.Column<string>(type: "char(2)", nullable: false),
+                    UFE_SG = table.Column<string>(type: "char(2)", nullable: true),
                     LOC_NO = table.Column<string>(type: "varchar(72)", nullable: true),
-                    CEP = table.Column<string>(type: "char(8)", nullable: false),
-                    LOC_IN_SIT = table.Column<string>(type: "char(1)", nullable: false),
-                    LOC_IN_TIPO_LOC = table.Column<string>(type: "char(1)", nullable: false),
+                    CEP = table.Column<string>(type: "char(8)", nullable: true),
+                    LOC_IN_SIT = table.Column<string>(type: "char(1)", nullable: true),
+                    LOC_IN_TIPO_LOC = table.Column<string>(type: "char(1)", nullable: true),
                     LOC_NU_SUB = table.Column<string>(type: "varchar(8)", nullable: true),
                     LOC_NO_ABREV = table.Column<string>(type: "varchar(36)", nullable: true),
-                    MUN_NU = table.Column<string>(type: "char(7)", nullable: false)
+                    MUN_NU = table.Column<string>(type: "char(7)", nullable: true)
                 },
                 constraints: table =>
                 {

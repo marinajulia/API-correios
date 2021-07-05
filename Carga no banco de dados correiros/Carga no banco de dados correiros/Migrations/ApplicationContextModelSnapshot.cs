@@ -3,16 +3,14 @@ using Carga_no_banco_de_dados_correiros.Infra.Data;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
 using Microsoft.EntityFrameworkCore.Metadata;
-using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 
 namespace Carga_no_banco_de_dados_correiros.Migrations
 {
-    [DbContext(typeof(DataContext))]
-    [Migration("20210704215628_Localidade")]
-    partial class Localidade
+    [DbContext(typeof(ApplicationContext))]
+    partial class ApplicationContextModelSnapshot : ModelSnapshot
     {
-        protected override void BuildTargetModel(ModelBuilder modelBuilder)
+        protected override void BuildModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
             modelBuilder
@@ -26,15 +24,12 @@ namespace Carga_no_banco_de_dados_correiros.Migrations
                         .HasColumnType("int");
 
                     b.Property<string>("CEP")
-                        .IsRequired()
                         .HasColumnType("char(8)");
 
                     b.Property<string>("LOC_IN_SIT")
-                        .IsRequired()
                         .HasColumnType("char(1)");
 
                     b.Property<string>("LOC_IN_TIPO_LOC")
-                        .IsRequired()
                         .HasColumnType("char(1)");
 
                     b.Property<string>("LOC_NO")
@@ -47,11 +42,9 @@ namespace Carga_no_banco_de_dados_correiros.Migrations
                         .HasColumnType("varchar(8)");
 
                     b.Property<string>("MUN_NU")
-                        .IsRequired()
                         .HasColumnType("char(7)");
 
                     b.Property<string>("UFE_SG")
-                        .IsRequired()
                         .HasColumnType("char(2)");
 
                     b.HasKey("LOC_NU");

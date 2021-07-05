@@ -6,7 +6,7 @@ using System.Text;
 
 namespace Carga_no_banco_de_dados_correiros.Infra.Data
 {
-    public class DataContext : DbContext
+    public class ApplicationContext : DbContext
     {
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
