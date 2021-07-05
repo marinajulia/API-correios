@@ -28,6 +28,7 @@ namespace Carga_no_banco_de_dados_correiros
             {
                 var loc = new LogLocalidade();
                 var props = line.Split("@");
+
                 loc.LOC_NU = Convert.ToInt32(props[0]);
                 loc.UFE_SG = props[1];
                 loc.LOC_NO = props[2];
@@ -40,7 +41,7 @@ namespace Carga_no_banco_de_dados_correiros
                 localidades.Add(loc);
 
                 //Console.WriteLine(props[0]);
-                Console.WriteLine(line);
+                //Console.WriteLine(line);
 
             }
             db.BulkInsert(localidades);

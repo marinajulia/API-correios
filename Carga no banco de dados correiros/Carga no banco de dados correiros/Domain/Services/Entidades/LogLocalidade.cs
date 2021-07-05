@@ -5,8 +5,7 @@ namespace Carga_no_banco_de_dados_correiros.Domain.Services.Entidades
 {
     public class LogLocalidade
     {
-        [Key]
-        [DatabaseGenerated(DatabaseGeneratedOption.None)]
+        [Key, DatabaseGenerated(DatabaseGeneratedOption.None)]
         public int LOC_NU { get; set; }
 
         [Column(TypeName = "char(2)")]

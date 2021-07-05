@@ -9,7 +9,7 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace Carga_no_banco_de_dados_correiros.Migrations
 {
     [DbContext(typeof(ApplicationContext))]
-    [Migration("20210705000527_Localidade")]
+    [Migration("20210705002822_Localidade")]
     partial class Localidade
     {
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
