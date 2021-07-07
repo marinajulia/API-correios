@@ -9,8 +9,8 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace Carga_no_banco_de_dados_correiros.Migrations
 {
     [DbContext(typeof(ApplicationContext))]
-    [Migration("20210705002822_Localidade")]
-    partial class Localidade
+    [Migration("20210707183711_bairro")]
+    partial class bairro
     {
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
@@ -19,6 +19,30 @@ namespace Carga_no_banco_de_dados_correiros.Migrations
                 .HasAnnotation("Relational:MaxIdentifierLength", 128)
                 .HasAnnotation("ProductVersion", "5.0.7")
                 .HasAnnotation("SqlServer:ValueGenerationStrategy", SqlServerValueGenerationStrategy.IdentityColumn);
+
+            modelBuilder.Entity("Carga_no_banco_de_dados_correiros.Domain.Services.Entidades.LogBairro", b =>
+                {
+                    b.Property<int>("BAI_NU")
+                        .HasColumnType("int");
+
+                    b.Property<string>("BAI_NO")
+                        .HasColumnType("varchar(72)");
+
+                    b.Property<string>("BAI_NO_ABREV")
+                        .HasColumnType("varchar(36)");
+
+                    b.Property<int>("LogLocalidadeId")
+                        .HasColumnType("int");
+
+                    b.Property<string>("UFE_SG")
+                        .HasColumnType("char(2)");
+
+                    b.HasKey("BAI_NU");
+
+                    b.HasIndex("LogLocalidadeId");
+
+                    b.ToTable("LogBairro");
+                });
 
             modelBuilder.Entity("Carga_no_banco_de_dados_correiros.Domain.Services.Entidades.LogLocalidade", b =>
                 {
@@ -52,6 +76,17 @@ namespace Carga_no_banco_de_dados_correiros.Migrations
                     b.HasKey("LOC_NU");
 
                     b.ToTable("LogLocalidade");
+                });
+
+            modelBuilder.Entity("Carga_no_banco_de_dados_correiros.Domain.Services.Entidades.LogBairro", b =>
+                {
+                    b.HasOne("Carga_no_banco_de_dados_correiros.Domain.Services.Entidades.LogLocalidade", "LogLocalidade")
+                        .WithMany()
+                        .HasForeignKey("LogLocalidadeId")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+
+                    b.Navigation("LogLocalidade");
                 });
 #pragma warning restore 612, 618
         }

@@ -13,6 +13,7 @@ namespace Carga_no_banco_de_dados_correiros
         static void Main(string[] args)
         {
             CadastrarLocalidade();
+            CadastrarBairro();
 
         }
 
@@ -44,8 +45,55 @@ namespace Carga_no_banco_de_dados_correiros
                 //Console.WriteLine(line);
 
             }
-            db.BulkInsert(localidades);
+            try
+            {
+                db.BulkInsert(localidades);
+            }
+            catch (Exception)
+            {
+
+                Console.WriteLine("\nTabela localidade já inserida");
+            }
+
 
         }
+
+
+        private static void CadastrarBairro()
+        {
+            using var db = new ApplicationContext();
+
+            string[] lines = File.ReadAllLines(@"C:\Users\Marina\source\repos\Arquivos Correios\eDNE_Basico\Delimitado\LOG_BAIRRO.TXT", Encoding.UTF7);
+
+            List<LogBairro> bairro = new List<LogBairro>();
+
+            foreach (var line in lines)
+            {
+                var loc = new LogBairro();
+                var props = line.Split("@");
+
+                loc.BAI_NU = Convert.ToInt32(props[0]);
+                loc.UFE_SG = props[1];
+                loc.LogLocalidadeId = Convert.ToInt32(props[2]);
+                loc.BAI_NO = props[3];
+                loc.BAI_NO_ABREV = props[4];
+
+                //Console.WriteLine(props[0]);
+                //Console.WriteLine(line);
+
+            }
+            try
+            {
+                db.BulkInsert(bairro);
+            }
+            catch (Exception e)
+            {
+
+                Console.WriteLine(e.Message);
+            }
+
+
+        }
+
     }
 }

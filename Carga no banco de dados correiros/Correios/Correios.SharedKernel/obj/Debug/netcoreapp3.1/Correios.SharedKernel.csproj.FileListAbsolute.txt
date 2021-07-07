@@ -1,0 +1,12 @@
+C:\Users\Marina\source\repos\Arquivos Correios\API correios\Carga no banco de dados correiros\Correios\Correios.SharedKernel\bin\Debug\netcoreapp3.1\Correios.SharedKernel.deps.json
+C:\Users\Marina\source\repos\Arquivos Correios\API correios\Carga no banco de dados correiros\Correios\Correios.SharedKernel\bin\Debug\netcoreapp3.1\Correios.SharedKernel.runtimeconfig.json
+C:\Users\Marina\source\repos\Arquivos Correios\API correios\Carga no banco de dados correiros\Correios\Correios.SharedKernel\bin\Debug\netcoreapp3.1\Correios.SharedKernel.runtimeconfig.dev.json
+C:\Users\Marina\source\repos\Arquivos Correios\API correios\Carga no banco de dados correiros\Correios\Correios.SharedKernel\bin\Debug\netcoreapp3.1\Correios.SharedKernel.dll
+C:\Users\Marina\source\repos\Arquivos Correios\API correios\Carga no banco de dados correiros\Correios\Correios.SharedKernel\bin\Debug\netcoreapp3.1\Correios.SharedKernel.pdb
+C:\Users\Marina\source\repos\Arquivos Correios\API correios\Carga no banco de dados correiros\Correios\Correios.SharedKernel\obj\Debug\netcoreapp3.1\Correios.SharedKernel.csproj.AssemblyReference.cache
+C:\Users\Marina\source\repos\Arquivos Correios\API correios\Carga no banco de dados correiros\Correios\Correios.SharedKernel\obj\Debug\netcoreapp3.1\Correios.SharedKernel.AssemblyInfoInputs.cache
+C:\Users\Marina\source\repos\Arquivos Correios\API correios\Carga no banco de dados correiros\Correios\Correios.SharedKernel\obj\Debug\netcoreapp3.1\Correios.SharedKernel.AssemblyInfo.cs
+C:\Users\Marina\source\repos\Arquivos Correios\API correios\Carga no banco de dados correiros\Correios\Correios.SharedKernel\obj\Debug\netcoreapp3.1\Correios.SharedKernel.csproj.CoreCompileInputs.cache
+C:\Users\Marina\source\repos\Arquivos Correios\API correios\Carga no banco de dados correiros\Correios\Correios.SharedKernel\obj\Debug\netcoreapp3.1\Correios.SharedKernel.dll
+C:\Users\Marina\source\repos\Arquivos Correios\API correios\Carga no banco de dados correiros\Correios\Correios.SharedKernel\obj\Debug\netcoreapp3.1\Correios.SharedKernel.pdb
+C:\Users\Marina\source\repos\Arquivos Correios\API correios\Carga no banco de dados correiros\Correios\Correios.SharedKernel\obj\Debug\netcoreapp3.1\Correios.SharedKernel.genruntimeconfig.cache

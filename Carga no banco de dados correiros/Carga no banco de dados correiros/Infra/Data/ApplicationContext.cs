@@ -14,5 +14,7 @@ namespace Carga_no_banco_de_dados_correiros.Infra.Data
         }
 
         public DbSet<LogLocalidade> LogLocalidade { get; set; }
+        public DbSet<LogBairro> LogBairro { get; set; }
+       
     }
 }

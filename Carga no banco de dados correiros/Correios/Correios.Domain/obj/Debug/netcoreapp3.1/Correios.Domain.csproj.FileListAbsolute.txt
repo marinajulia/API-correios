@@ -1,0 +1,15 @@
+C:\Users\Marina\source\repos\Arquivos Correios\API correios\Carga no banco de dados correiros\Correios\Correios.Domain\bin\Debug\netcoreapp3.1\Correios.Domain.deps.json
+C:\Users\Marina\source\repos\Arquivos Correios\API correios\Carga no banco de dados correiros\Correios\Correios.Domain\bin\Debug\netcoreapp3.1\Correios.Domain.runtimeconfig.json
+C:\Users\Marina\source\repos\Arquivos Correios\API correios\Carga no banco de dados correiros\Correios\Correios.Domain\bin\Debug\netcoreapp3.1\Correios.Domain.runtimeconfig.dev.json
+C:\Users\Marina\source\repos\Arquivos Correios\API correios\Carga no banco de dados correiros\Correios\Correios.Domain\bin\Debug\netcoreapp3.1\Correios.Domain.dll
+C:\Users\Marina\source\repos\Arquivos Correios\API correios\Carga no banco de dados correiros\Correios\Correios.Domain\bin\Debug\netcoreapp3.1\Correios.Domain.pdb
+C:\Users\Marina\source\repos\Arquivos Correios\API correios\Carga no banco de dados correiros\Correios\Correios.Domain\bin\Debug\netcoreapp3.1\Correios.SharedKernel.dll
+C:\Users\Marina\source\repos\Arquivos Correios\API correios\Carga no banco de dados correiros\Correios\Correios.Domain\bin\Debug\netcoreapp3.1\Correios.SharedKernel.pdb
+C:\Users\Marina\source\repos\Arquivos Correios\API correios\Carga no banco de dados correiros\Correios\Correios.Domain\obj\Debug\netcoreapp3.1\Correios.Domain.csproj.AssemblyReference.cache
+C:\Users\Marina\source\repos\Arquivos Correios\API correios\Carga no banco de dados correiros\Correios\Correios.Domain\obj\Debug\netcoreapp3.1\Correios.Domain.AssemblyInfoInputs.cache
+C:\Users\Marina\source\repos\Arquivos Correios\API correios\Carga no banco de dados correiros\Correios\Correios.Domain\obj\Debug\netcoreapp3.1\Correios.Domain.AssemblyInfo.cs
+C:\Users\Marina\source\repos\Arquivos Correios\API correios\Carga no banco de dados correiros\Correios\Correios.Domain\obj\Debug\netcoreapp3.1\Correios.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Marina\source\repos\Arquivos Correios\API correios\Carga no banco de dados correiros\Correios\Correios.Domain\obj\Debug\netcoreapp3.1\Correios.Domain.csproj.CopyComplete
+C:\Users\Marina\source\repos\Arquivos Correios\API correios\Carga no banco de dados correiros\Correios\Correios.Domain\obj\Debug\netcoreapp3.1\Correios.Domain.dll
+C:\Users\Marina\source\repos\Arquivos Correios\API correios\Carga no banco de dados correiros\Correios\Correios.Domain\obj\Debug\netcoreapp3.1\Correios.Domain.pdb
+C:\Users\Marina\source\repos\Arquivos Correios\API correios\Carga no banco de dados correiros\Correios\Correios.Domain\obj\Debug\netcoreapp3.1\Correios.Domain.genruntimeconfig.cache
